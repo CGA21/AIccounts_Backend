@@ -1,0 +1,28 @@
+INVOICE
+
+From:
+Tech Solutions Inc.
+123 Innovation Drive
+San Francisco, CA 94107
+
+To:
+Sai Enterprises
+
+Invoice Number: INV-0002
+Invoice Date: 
+Due Date: April 7, 2025
+
+Items:
+Description                     Quantity    Unit Price    Total
+---------------------------------------------------------------
+Website Hosting (Monthly)                   $50.00        
+Domain Registration (.com)     1                          
+SSL Certificate                                         
+Email Setup (Business)         3           $10.00        
+
+Subtotal:                                     
+Tax (8.25%):                                 
+Total Due:                                    
+
+Payment Instructions:
+Please make payment via bank transfer or online payment portal.
